@@ -4,7 +4,7 @@ fetch('https://raw.githubusercontent.com/MargauxThw/TS-lyrics/main/AllDataMar212
     .catch(err => console.log(err));
 
 
-const album_order = ["Scaled And Icy", "Trench", "Blurryface", "Vessel", "Regional at Best", "twenty one pilots", "No Phun Intended (Tyler Joseph)" "Unreleased"]
+const album_order = ["midnights", "evermore", "folklore", "Lover", "Reputation", "1989", "Red (Taylor's Version)", "Speak Now", "Fearless (Taylor's Version)", "Taylor Swift", "Unreleased", "Singing Credits Only", "Talkshow Parody", "Unspecified Album", "EP: Sounds Of The Season: The Taylor Swift Holiday Collection"]
 
 const num_albums = 10
 
@@ -32,7 +32,7 @@ function getOtherId(index, data) {
     return o
 }
 
-/* TODO: FIGURE OUT WHAT THIS DOES AND FIX IT */
+
 function getSongShortened(title) {
     title_ids = title.split(" ")[0].toLowerCase()
 
