@@ -5,9 +5,12 @@ const vessel =      ["#4F7C51", "#000000"]
 const rab =         ["#8EBAFB", "#726ACF"]
 const selftitled =  ["#DE8CA3", "#AE1E49"]
 const npi =         ["#9863DC", "#731270"]
-const other =       ["#242424", "#000000", "#FFFFFF"]
+const heathens =    ["#4a1256", "#175612"]
+const loc =         ["#4a1256", "#175612"]
+const christmas =   ["#4a1256", "#175612"]
+const unreleased =  ["#242424", "#000000", "#FFFFFF"]
 
-const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, other, other, other, other, other]
+const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, heathens, loc, christmas, unreleased]
 const symbols = [" ", ",", "'", "(", ")", ":", "?"]
 
 function isOneOf(c, l) {
