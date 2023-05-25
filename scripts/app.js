@@ -32,7 +32,7 @@ function getOtherId(index, data) {
     return o
 }
 
-
+/* TODO: FIGURE OUT WHAT THIS DOES AND FIX IT */
 function getSongShortened(title) {
     title_ids = title.split(" ")[0].toLowerCase()
 
