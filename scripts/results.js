@@ -7,10 +7,10 @@ const red = ["#DE8CA3", "#AE1E49"]
 const speak = ["#9863DC", "#731270"]
 const fearless = ["#FFBA52", "#B67B09"]
 const debut = ["#3AA6ED", "#1B6069"]
-const daylights = ["#88ABBE", "#020F3A"]
+const midnights = ["#88ABBE", "#020F3A"]
 const other = ["#242424", "#000000", "#FFFFFF"]
 
-const colours = [daylights, evermore, folklore, lover, reputation, nineteen, red,
+const colours = [midnights, evermore, folklore, lover, reputation, nineteen, red,
     speak, fearless, debut, other, other, other, other, other, other, other, other
 ]
 const symbols = [" ", ",", "'", "(", ")", ":", "?"]
