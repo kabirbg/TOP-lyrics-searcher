@@ -1,4 +1,4 @@
-# Taylor Swift Lyrics Searcher
+# tøp Lyrics Searcher
 A clean and simple [twenty one pilots lyrics searcher](https://toplyrics.netlify.app) created with vanilla javascript
 
 ## License
