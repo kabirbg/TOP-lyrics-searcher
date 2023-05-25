@@ -1,6 +1,5 @@
 # tøp Lyrics Searcher
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a82b675-5bfc-42a9-a0f7-2fc097a2bdc0/deploy-status)](https://app.netlify.com/sites/toplyrics/deploys)
-
 A clean and simple [twenty one pilots lyrics searcher](https://toplyrics.netlify.app) created with vanilla javascript
 
 ## License
