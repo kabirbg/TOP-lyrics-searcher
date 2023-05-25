@@ -8,10 +8,11 @@ const npi =         ["#9863DC", "#731270"]
 const heathens =    ["#4a1256", "#175612"]
 const loc =         ["#4a1256", "#175612"]
 const christmas =   ["#4a1256", "#175612"]
-const unreleased =  ["#242424", "#000000", "#FFFFFF"]
+const other =  ["#242424", "#000000", "#FFFFFF"]
 
 const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, heathens,
-    loc, christmas, unreleased]
+    loc, christmas, other, other, other, other, other, other, other, other
+]
 const symbols = [" ", ",", "'", "(", ")", ":", "?"]
 
 function isOneOf(c, l) {

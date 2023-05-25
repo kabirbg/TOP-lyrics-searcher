@@ -6,7 +6,8 @@ fetch('https://raw.githubusercontent.com/MargauxThw/TS-lyrics/main/AllDataMar212
 
 const album_order = ["Scaled And Icy", "Trench", "Blurryface", "Vessel",
     "Regional at Best", "twenty one pilots", "No Phun Intended (Tyler Joseph)",
-    "Heathens", "Level of Concern", "Christmas Saves the Year", "Other/Unreleased"
+    "Heathens", "Level of Concern", "Christmas Saves the Year", "Other/Unreleased",
+    "blank1", "blank2", "blank3", "blank4"
 ]
 
 const num_albums = 10
