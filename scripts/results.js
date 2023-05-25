@@ -6,7 +6,7 @@ const reputation = ["#3C68B2", "#BF3730"]
 const nineteen = ["#459861", "#97398B"]
 const red = ["#8B706E", "#81876A"]
 const speak = ["#A4EBA5", "#AA281C"]
-const fearless = ["#61B8C1", "667A96"]
+const fearless = ["#61B8C1", "#667A96"]
 const debut = ["#A4534C", "#31312E"]
 const other = ["#242424", "#000000", "#FFFFFF"]
 
