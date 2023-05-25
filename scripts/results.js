@@ -1,6 +1,6 @@
 const midnights = ["#EE88AF", "#81C1CB"]
-const evermore = ["#FCE300", "595B3C"]
-const folklore = ["#000000", "8D0000"]
+const evermore = ["#FCE300", "#595B3C"]
+const folklore = ["#000000", "#8D0000"]
 const lover = ["#E7E7E7", "#5A7696"]
 const reputation = ["#3C68B2", "#BF3730"]
 const nineteen = ["#459861", "#97398B"]
