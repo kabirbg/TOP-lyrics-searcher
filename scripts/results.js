@@ -7,7 +7,7 @@ const selftitled =  ["#DE8CA3", "#AE1E49"]
 const npi =         ["#9863DC", "#731270"]
 const other =       ["#242424", "#000000", "#FFFFFF"]
 
-const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, other, other]
+const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, other, other, other, other, other]
 const symbols = [" ", ",", "'", "(", ")", ":", "?"]
 
 function isOneOf(c, l) {
@@ -157,10 +157,12 @@ function getResults(data) {
 
 function updateNum(num) {
     num_results = document.getElementById("num-results")
-    if (num == 1)
+    if (num == 1) {
         num_results.innerHTML = "<b>1</b> matching line was found"
-    else
+    } else {
         num_results.innerHTML = "<b>" + num + "</b> matching lines were found"
+    }
+    
 }
 
 
