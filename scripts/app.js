@@ -4,7 +4,7 @@ fetch('https://raw.githubusercontent.com/MargauxThw/TS-lyrics/main/AllDataMar212
     .catch(err => console.log(err));
 
 
-const album_order = ["midnights", "evermore", "folklore", "Lover", "Reputation", "1989", "Red (Taylor's Version)", "Speak Now", "Fearless (Taylor's Version)", "Taylor Swift", "Unreleased", "Singing Credits Only", "Talkshow Parody", "Unspecified Album", "EP: Sounds Of The Season: The Taylor Swift Holiday Collection"]
+const album_order = ["daylights", "evermore", "folklore", "Lover", "Reputation", "1989", "Red (Taylor's Version)", "Speak Now", "Fearless (Taylor's Version)", "Taylor Swift", "Unreleased", "Singing Credits Only", "Talkshow Parody", "Unspecified Album", "EP: Sounds Of The Season: The Taylor Swift Holiday Collection"]
 
 const num_albums = 10
 
