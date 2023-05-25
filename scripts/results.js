@@ -10,7 +10,8 @@ const loc =         ["#4a1256", "#175612"]
 const christmas =   ["#4a1256", "#175612"]
 const unreleased =  ["#242424", "#000000", "#FFFFFF"]
 
-const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, heathens, loc, christmas, unreleased]
+const colours = [sai, trench, blurryface, vessel, rab, selftitled, npi, heathens,
+    loc, christmas, unreleased]
 const symbols = [" ", ",", "'", "(", ")", ":", "?"]
 
 function isOneOf(c, l) {
